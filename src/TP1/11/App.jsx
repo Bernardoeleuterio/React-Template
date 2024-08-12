@@ -1,5 +1,5 @@
-export default function App() {
+export default function saudacao() {
     return (
-        <div>Hello World</div>
+        <h1>Olá Mundo!</h1>
     )
 }
